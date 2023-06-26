@@ -26,6 +26,18 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>Courses Completed</h3>
+<ul>
+  <li> Data Structures and Algorithms</li>
+  <li> Computer Network</li>
+  <li> User Interfaces</li>
+  <li> Object Oriented Design</li>
+  <li> Design and Analysis of Algorithms</li>
+  <li> Database Systems</li>
+  <li> Computer Security</li>
+  <li> Software Tools</li>
+  <li> Software Designs</li>
+</ul>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/oTitanium" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dervis-yasin-yalcin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
