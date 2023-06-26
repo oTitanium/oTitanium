@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<p>
+  Welcome to my page!<br>
+I'm Dervis, Software Developer from <b>Turkey</b> but currently living in <b>Toronto, Canada...</b>
+</p>
 <!--
-**oTitanium/oTitanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
