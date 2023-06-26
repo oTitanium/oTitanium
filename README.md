@@ -1,7 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There! .</h1>
 
 
-<p>Welcome to my page! </br> I'm Dervis, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Toronto, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Dervis, Software Developer from <b> Turkey</b>, currently living in <b>Toronto, Canada</b>.
+  <br>
+  <br>
+🌱 Computer Science grad, an enthusiast currently developing Front-End projects for a hobby.<br>
+🔭 I love to work with Front-End projects using JavaScript, TypeScript, React programing languages.
+  </p>
+ <img alt="Giff" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -26,6 +32,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 26 June, 20:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
