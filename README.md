@@ -5,7 +5,10 @@
   <br>
   <br>
 🌱 Computer Science grad, an enthusiast currently developing Front-End projects for a hobby.<br>
-🔭 I love to work with Front-End projects using JavaScript, TypeScript, React programing languages.
+🔭 I'm currently working with Front-End projects using JavaScript, TypeScript, React programing languages.<br>
+👀 I love getting involved in different actions and adventures.<br>
+🎉 PC Gamer, CS-GO 🚀 player.<br>
+💪 Has potential to mess around with technologies and discover their abilities.<br>
   </p>
  <img alt="Giff" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3>Things I code with</h3>
@@ -26,6 +29,11 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
+<p align="center"> <br>
+  <b>WOAHHH! How Many People Visited Me?<br><br>
+  <img src="https://profile-counter.glitch.me/oTitanium/count.svg" />
+</p>
+
 <h3>Courses Completed</h3>
 <ul>
   <li> Data Structures and Algorithms</li>
@@ -40,7 +48,7 @@
 </ul>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/oTitanium" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dervis-yasin-yalcin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p> <a href="https://www.linkedin.com/in/dervis-yasin-yalcin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
